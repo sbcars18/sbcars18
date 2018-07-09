@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About study
 
-You can use the [editor on GitHub](https://github.com/sbcars18/sbcars18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="justify">Software metrics provide means to quantify several attributes of software systems. The effective measurement is dependent of appropriate metric thresholds as they allow characterizing the quality of software systems. Indeed, thresholds have been used for detecting a variety software anomalies. Previous methods to derive metric thresholds do not take characteristics of software domains into account, such as the difference between size and complexity of systems from different domains. Instead, they rely on (generic) thresholds that are derived from heterogeneous systems. Although derivation of reliable thresholds has long been a concern, we also lack empirical evidence about threshold variation across distinct mobile software domains. This paper proposes a domain-sensitive method to derive thresholds that respects metric statistics and is based on benchmarks of systems from the same domain. To evaluate the proposed method, we manually mined one hundred mobile systems from GitHub, measured them using a set of seven well-known metrics, derived thresholds, and validated them through qualitative and quantitative analyses. As a result, we observed that software domain is a relevant factor to be considered when building benchmarks for threshold derivation.</p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**All data used in this study are available.**
 
-### Markdown
+Click here to see the raw data, which contains metrics of each software domains. <a href="https://github.com/sbcars18/sbcars18/tree/master/metrics/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="justify">
+  Download (Available Soon) <a href="Link" download="Download">   <img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
+</p>
+<p align="justify">
+  To install: Paste the Jar file inside Dropins in Eclipse installation folder and Open Threshold Warning View.
+</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbcars18/sbcars18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
